@@ -11,6 +11,7 @@ class App extends Component {
           <Calculator text="Calculator in React"></Calculator>
           <Display displayStyle="displayStyle"></Display>
           <CustomButton text="C" style="numbers"></CustomButton>
+          <CustomButton text="C" style="numbers"></CustomButton>
           <CustomButton text="+/-" style="numbers"></CustomButton>
           <CustomButton text="%" style="numbers"></CustomButton>
           <CustomButton text="/" style="operators"></CustomButton>
